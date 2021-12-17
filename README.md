@@ -8,12 +8,15 @@ Hi , I'm Payel Paul </i> </a>
 <h1 align="center"> <img src="https://media1.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif?cid=ecf05e47kyft1q79nqnvjup6oe4zsqubtfn8jafwtk7j2g4m&rid=giphy.gif&ct=g" width="250"></h1>
 
 
-- 🔭 Data Science Technical Team member at @CodeChefSRM
-- 💻 Machine learning developer at @Aakash Research Labs
-- 🌱 I’m currently exploring Data Science , Machine Learning and Deep Learning
-- 🎖 <a href="https://devfolio.co/submissions/aquaanalyst-327b"> Top 10 mention in Hacktrix hackathon by @IEEE SRMIST </i> </a>
-- <a href="https://chiranthana30rr.medium.com/exploratory-data-analysis-beyond-statistics-for-business-development-c27916152310"> Read my Recent Blog on Exploratory Data Analysis Beyond Statistics for Business Development </i> </a>
-
+- 📱 App Developer Team member at @WebArchSRM
+- 💻  App Developer Team member at @TEAM 1.618
+- 🎨 GFX Lead at @IEEE SB SRM
+- 🎖 Winner of Mozo Designathon at @SRM Kzilla
+- 🎖 Top 55 teams in Hack The Mountain
+- 🌟3 star CodeChef
+- 🌱 I’m currently exploring App Development and UI/UX
+- 👩‍💻Work as a Part-time Freelancer 
+-  📑<a href="https://www.canva.com/design/DAEyzddQy4E/dLSk1XCr1t6tjV4BC8Dgww/view?utm_content=DAEyzddQy4E&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent"> Take a look at my Resume </i> </a>
 - 📫 How to reach me **pp2659@srmist.edu.in**
 <h3 align="center">Connect with me:</h3>
 

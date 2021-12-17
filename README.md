@@ -16,7 +16,7 @@ Hi , I'm Payel Paul </i> </a>
 - 🌟3 star CodeChef
 - 🌱 I’m currently exploring App Development and UI/UX
 - 👩‍💻Work as a Part-time Freelancer 
--  📑<a href="https://www.canva.com/design/DAEyzddQy4E/dLSk1XCr1t6tjV4BC8Dgww/view?utm_content=DAEyzddQy4E&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent"> Take a look at my Resume </i> </a>
+-  📑<a href="https://drive.google.com/file/d/1_Bng5lsnIdQOJHJYDhbC0zMg-8oYejWd/view?usp=sharing"> Take a look at my Resume </i> </a>
 - 📫 How to reach me **pp2659@srmist.edu.in**
 <h3 align="center">Connect with me:</h3>
 

@@ -8,13 +8,12 @@ Hi , I'm Payel Paul </i> </a>
 <h1 align="center"> <img src="https://media1.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif?cid=ecf05e47kyft1q79nqnvjup6oe4zsqubtfn8jafwtk7j2g4m&rid=giphy.gif&ct=g" width="250"></h1>
 
 - DevOps Intern @Informatica
-- 📱 App Developer Team member at @WebArchSRM
-- 💻  App Developer Team member at @TEAM 1.618
-- 🎨 GFX Lead at @IEEE SB SRM
+- 📱 App Developer Team member
+- 🎨 Graphics Designer
 - 🎖 Winner of Mozo Designathon at @SRM Kzilla
 - 🎖 Top 55 teams in Hack The Mountain
 - 🌟3 star CodeChef
-- 🌱 I’m currently exploring App Development and UI/UX
+- 🌱 UI/UX Designer
 - 👩‍💻Work as a Part-time Freelancer 
 -  📑<a href="https://drive.google.com/file/d/1_Bng5lsnIdQOJHJYDhbC0zMg-8oYejWd/view?usp=sharing"> Take a look at my Resume </i> </a>
 - 📫 How to reach me **pp2659@srmist.edu.in**
